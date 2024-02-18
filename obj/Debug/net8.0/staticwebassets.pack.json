@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/rsn/Lafa.Codes/DevWorld/Blazor/Game/ConnectFour/obj/Debug/net8.0/scopedcss/projectbundle/ConnectFour.bundle.scp.css",
+      "PackagePath": "staticwebassets/ConnectFour.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/rsn/Lafa.Codes/DevWorld/Blazor/Game/ConnectFour/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/rsn/Lafa.Codes/DevWorld/Blazor/Game/ConnectFour/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/rsn/Lafa.Codes/DevWorld/Blazor/Game/ConnectFour/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/rsn/Lafa.Codes/DevWorld/Blazor/Game/ConnectFour/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ConnectFour.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ConnectFour.props",
+      "PackagePath": "build\\ConnectFour.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ConnectFour.props",
+      "PackagePath": "buildMultiTargeting\\ConnectFour.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ConnectFour.props",
+      "PackagePath": "buildTransitive\\ConnectFour.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

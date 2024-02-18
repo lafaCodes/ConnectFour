@@ -1,0 +1,27 @@
+<h3>Board</h3>
+
+<HeadContent>
+    <style>
+        :root {
+            --board-bg: yellow;  /** the color of the board **/
+            --player1: red;      /** Player 1's piece color **/
+            --player2: blue;     /** Player 2's piece color **/
+        }
+    </style>
+</HeadContent>
+
+@* for loop to generate the 42 board positions. The container span tag is picked up and repeated with its contents 42 times to represent our board. *@
+<div>
+   <div class="board">
+      @for (var i = 0; i < 42; i++)
+      {
+         <span class="container">
+            <span></span>
+         </span>
+      }
+   </div>
+</div>
+
+@code {
+
+}
