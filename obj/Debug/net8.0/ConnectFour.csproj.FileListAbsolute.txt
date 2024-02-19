@@ -28,3 +28,4 @@
 /Users/rsn/Lafa.Codes/DevWorld/Blazor/Game/ConnectFour/obj/Debug/net8.0/ConnectFour.genruntimeconfig.cache
 /Users/rsn/Lafa.Codes/DevWorld/Blazor/Game/ConnectFour/obj/Debug/net8.0/ref/ConnectFour.dll
 /Users/rsn/Lafa.Codes/DevWorld/Blazor/Game/ConnectFour/obj/Debug/net8.0/scopedcss/Components/Board.razor.rz.scp.css
+/Users/rsn/Lafa.Codes/DevWorld/Blazor/Game/ConnectFour/obj/Debug/net8.0/ConnectFour.sourcelink.json
